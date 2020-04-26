@@ -49,7 +49,7 @@ class SortingAlgorithm:
         Merge sort algorithm. - Divide and Conquer
         """    
         if not arr or start >= end:
-            return
+            return 
         middle = (start + end) // 2        
         self.mergeSort(arr, start, middle)
         self.mergeSort(arr, middle + 1, end)
