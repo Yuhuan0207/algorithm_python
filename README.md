@@ -1,13 +1,14 @@
 # Algorithm Notebook
 
 Idea of this notebook is to keep a building block methedology for every section.
-- Linear Structure
+- Linear Structures
     - Arrays & Strings
     - LinkedList
     - Stack & Queue
-    - HashMap
+    - HashTable and Hash Function
+    - Sorting and Searching
 
-- Tree Structure
+- Tree Structures
     - Binary Tree
     - Binary Search Tree
     - Trie
@@ -21,9 +22,7 @@ Idea of this notebook is to keep a building block methedology for every section.
     - Basic Sorting Algorithms
     - Selection Algorithm
 
-- Recursion, Memorized Search & DP
-
-
 - Misc
     - Bit Manipulation
-
+    - Backtracking
+    - Recursion, Memorized Search & DP
